@@ -1,0 +1,11 @@
+*.iml
+*.ipr
+*.iws
+.idea
+
+.gradle
+.asscache
+build
+out
+logs
+classes
